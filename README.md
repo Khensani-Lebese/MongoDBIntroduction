@@ -3,45 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MongoDB Project - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    code {
-      background-color: #e8e8e8;
-      padding: 2px 5px;
-      border-radius: 3px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background-color: #333;
-      color: white;
-    }
-  </style>
+
+    
 </head>
 <body>
 
