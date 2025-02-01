@@ -25,7 +25,10 @@
   <pre><code>mongod</code></pre>
   <p>In a new terminal window, open the MongoDB shell:</p>
   <pre><code>mongosh</code></pre>
-
+  
+ <p>Run the following code:</p>
+  <pre><code>load('mongoScript.mjs')</code></pre>
+  
   <h2>Creating the Database and Collections</h2>
   <h3>1. Create a Database Named <code>Codetribe</code></h3>
   <pre><code>use Codetribe</code></pre>
